@@ -1,6 +1,6 @@
 # OS Lab 6: CPU Scheduling Simulator
 
-#Name: Daniel Onwuka
+# Name: Daniel Onwuka
 
 ## Overview
 Implementation of 4 CPU scheduling algorithms:
